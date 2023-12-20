@@ -1,3 +1,6 @@
+body{
+    padding-left: 20px;
+}
 .btn {
     background-color: peru;
     letter-spacing: 0.04em;
