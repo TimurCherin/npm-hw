@@ -1,0 +1,18 @@
+.btn {
+    width: 200px;
+    height: 70px;
+}
+
+.text {
+    transform: scale(0.5) translateX(-105%);
+    display: block;
+    background-color: #f0f0f0;
+    object-fit: cover;
+    transition: all 1s linear 500ms;
+    opacity: 0;
+}
+.move{
+    width: 100px;
+    transform: scale(1) translateX(40%);
+    opacity: 1; 
+}
